@@ -1,0 +1,96 @@
+.own-font {
+    font-size: 12px !important;
+}
+
+textarea {
+    resize: none;
+}
+
+.button-max {
+    width:100%
+}
+
+select {
+    height: 30px;
+}
+
+.table-container {
+    overflow-x: scroll;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #d2d6de
+}
+
+th {
+    white-space: nowrap !important;
+}
+
+table.dataTable td {
+	padding: 5px !important;
+}
+
+table.dataTable th {
+	padding-top: 6px !important;
+}
+
+.dt-center {
+	vertical-align: middle !important;
+}
+
+.custom-center {
+	text-align: center !important; 
+}
+
+.dt-right {
+	vertical-align: middle !important;
+	text-align: right !important; 
+}
+
+table.dataTable thead th {
+  text-align: left;
+}
+
+.previous, .next {
+	font-size: 12px
+}
+
+.dataTables_paginate {
+	font-size: 12px
+}
+
+.numericCol{
+	text-align: right;
+}
+
+.selected {
+	background: #e9e9ef;
+	font-weight: bold;
+}
+
+.hide {
+	visibility: hidden;
+}
+
+select {
+  padding-top: 5px !important;
+}
+
+.dt-buttons {
+  height: 0px !important;
+}
+
+.img-thumbnail {
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    max-height: 99px;
+    height: 99px;
+    object-fit: cover;
+}
